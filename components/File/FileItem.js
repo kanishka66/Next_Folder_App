@@ -1,5 +1,5 @@
 import { deleteDoc, doc, getFirestore } from "firebase/firestore";
-import moment from "moment/moment";
+// import moment from "moment/moment";
 import Image from "next/image";
 import React, { useContext, useState } from "react";
 import { app } from "../../Config/FirebaseConfig";

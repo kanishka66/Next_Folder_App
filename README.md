@@ -20,11 +20,16 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 In this code :
  ● Created a page where the admin can create projects.
+ 
  ● Admin can specify the folder name and upload documents to these folders.
+ 
  ● The documents are stored in the specified folder.
+ 
 
  ● Created a page where users can see all the folders.
+ 
  ● When a user clicks on a folder, they see a list of documents in that folder.
+ 
  ● When a userclicks on a document, the document is  rendered within the webpage.
 
  
